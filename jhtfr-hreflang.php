@@ -1,8 +1,4 @@
 <?php
-/**
- * @package JHTFR HREFLANG
- * @version 0.1
- */
 /*
 Plugin Name: JHTFR HREFLANG
 Plugin URI: https://github.com/ninthlink/nlk-plugins/tree/master/jhtfr-hreflang
